@@ -1,0 +1,5 @@
+input_files/
+output_documents/
+output_sound_files/
+old/
+*.docx
